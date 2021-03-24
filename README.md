@@ -27,7 +27,7 @@ The code of the app can be compiled using `XCode` and can be run using a simulat
 - _Note: The above mentioned files are the important additional files added to the default Xcode project files_
 
 ## About the Application :
-The application is a sample of a real-time tour guide app. It provides detailed information about a few tourist location present in various parts of the world. The application allows us to choose any location/monument among the available ones and provides a brief deascription about its history and features. The various interative components of the application are explained in detail below.
+The application is a sample of a real-time tour guide app. It provides detailed information about a few tourist location present in various parts of the world. The application allows us to choose any location/monument among the available ones and provides a brief deascription about its history and features. The various interactive components of the application are explained in detail below.
 - **Discover Screen** :
   - It acts as the home page of the app.
   - It provides a simple picture and description about a particular location/monument.
@@ -45,7 +45,7 @@ The application is a sample of a real-time tour guide app. It provides detailed 
   
 - **Graphical Features** :
   - The project contains **multiple graphical content** ranging from _bending of borders_ to _styled fonts_, _contrasting colour switches_, _pictures_ and _eye-soothing layout_.
-  - The UI at the same time does not compromise on interativity.
+  - The UI at the same time does not compromise on interactivity.
   - The `Tips` screen and the `Locations` screen provide great graphical interactivity like drop down of answers and navigation through the map respectively.
   
 - **Swift and SwiftUI** :
