@@ -18,6 +18,7 @@
 		105BC339260B8DA4002F29EA /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105BC338260B8DA4002F29EA /* WorldView.swift */; };
 		105BC33C260BA4F6002F29EA /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105BC33B260BA4F6002F29EA /* Tip.swift */; };
 		105BC33F260BA621002F29EA /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 105BC33E260BA621002F29EA /* TipsView.swift */; };
+		106280A8260BD05400EE6E28 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 106280A7260BD05400EE6E28 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		105BC338260B8DA4002F29EA /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
 		105BC33B260BA4F6002F29EA /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
 		105BC33E260BA621002F29EA /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
+		106280A7260BD05400EE6E28 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		1041F5E526068313001FA7DE = {
 			isa = PBXGroup;
 			children = (
+				106280A7260BD05400EE6E28 /* README.md */,
 				1041F5F026068313001FA7DE /* MyFirstApp */,
 				1041F5EF26068313001FA7DE /* Products */,
 			);
@@ -149,6 +152,7 @@
 			files = (
 				1041F5F926068314001FA7DE /* Preview Assets.xcassets in Resources */,
 				1041F60726068CF8001FA7DE /* tips.json in Resources */,
+				106280A8260BD05400EE6E28 /* README.md in Resources */,
 				1041F60426068CDD001FA7DE /* locations.json in Resources */,
 				1041F5F626068314001FA7DE /* Assets.xcassets in Resources */,
 			);
