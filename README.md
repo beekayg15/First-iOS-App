@@ -71,7 +71,7 @@ The application is a sample of a real-time tour guide app. It provides detailed 
   </tr>
 </table>
 
-#### Tips Screen:
+### Tips Screen:
 <table>
   <tr>
     <td> <img src = "screenshots/5.png" height="430" width="210"> </td>
