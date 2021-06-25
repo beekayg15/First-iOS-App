@@ -15,7 +15,7 @@ The code can be downloaded as a compressed `zip` file from the github web interf
 
 The repository can also be cloned using:
 ```
-git clone https://github.com/BarathKumarBK-15/Minesweeper.git
+https://github.com/BarathKumarBK-15/First-iOS-App.git
 ```
 
 The code of the app can be compiled using `XCode` and can be run using a simulator or an iOS device
